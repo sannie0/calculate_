@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ReOQDCKN8jiJforD3Inao/K+eHutvbxqf0V69onEL2TFdoV6Jt2pxOj26Jmu7WFQt/w2KsYhacBJTrh7vdQL9g==",
+  "success": true,
+  "projectFilePath": "/Volumes/KINGSTON/последний калк/calculate_/calculate_.csproj",
+  "expectedPackageFiles": [
+    "/Users/annasemenova/.nuget/packages/communitytoolkit.mvvm/8.2.2/communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "/Users/annasemenova/.nuget/packages/dapper/2.1.24/dapper.2.1.24.nupkg.sha512",
+    "/Users/annasemenova/.nuget/packages/extended.wpf.toolkit/4.5.1/extended.wpf.toolkit.4.5.1.nupkg.sha512",
+    "/Users/annasemenova/.nuget/packages/fluentassertions/6.12.0/fluentassertions.6.12.0.nupkg.sha512",
+    "/Users/annasemenova/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/annasemenova/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/annasemenova/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.118/stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "/Users/annasemenova/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "/Users/annasemenova/.nuget/packages/system.data.sqlite.core/1.0.118/system.data.sqlite.core.1.0.118.nupkg.sha512",
+    "/Users/annasemenova/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
